@@ -1,0 +1,6 @@
+site_name: Hello World
+theme:
+  name: material
+  palette:
+    primary: cyan
+    accent: deep orange
